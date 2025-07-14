@@ -104,10 +104,6 @@ Dockerfile
 docker-compose.yml
 docker-compose.*.yml
 
-# Documentation
-README.md
-*.md
-
 # Test files
 coverage/
 *.test.js
